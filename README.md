@@ -4,3 +4,4 @@
 - 🏆 Founder and lead developer @decentland
 - 📫 Reach me @ Telegram via t.me/Akapepe007
 
+From time to time, i like spend helping other developers on stackoverflow: https://stackoverflow.com/users/14095996/charmful0x?tab=profile
